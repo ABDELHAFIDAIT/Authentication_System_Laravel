@@ -68,10 +68,3 @@ Lancez le serveur Laravel :
 php artisan serve
 ```
 Puis accédez à l'application via `http://127.0.0.1:8000`.
-
-## Auteur
-- **[Ton Nom]** - Développeur Laravel
-
-## Licence
-Ce projet est sous licence MIT.
-
